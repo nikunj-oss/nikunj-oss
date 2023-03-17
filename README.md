@@ -4,9 +4,8 @@ you can connect with me
 
 <hr>
 
-![instagram](https://user-images.githubusercontent.com/72417259/225830193-2c80c5d9-a516-4ecc-a766-8cf778fcc428.png)
-![gmail](https://user-images.githubusercontent.com/72417259/225830197-df1fecd4-d93d-4ded-bbb2-e6e1dddcb3cb.png)
-![linkedin](https://user-images.githubusercontent.com/72417259/225830201-0221066e-5d00-4ae5-8b5d-70932cd80d7b.png)
-
+![linkedin](https://user-images.githubusercontent.com/72417259/225830466-f6a02943-c339-4a02-908b-b3d798947a4c.png)
+![instagram](https://user-images.githubusercontent.com/72417259/225830471-e2f4bded-43a0-4b97-b18a-bd1062ef9a4f.png)
+![gmail](https://user-images.githubusercontent.com/72417259/225830476-77c04da3-c4bd-43ec-80aa-02466f3ceaa7.png)
 
 <hr>
