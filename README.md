@@ -27,10 +27,9 @@ const nikunj = {
   location: "Delhi, India 🇮🇳",
   stack: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"],
   alsoWorkWith: ["Python", "C#"],
-  currentlyBuilding: "TODO: your current project",
-  currentlyLearning: "TODO: e.g. Next.js, system design",
-  askMeAbout: ["UI engineering", "React", "DSA"],
-  funFact: "TODO: something memorable",
+  currentlyBuilding: "TODO: AI Code execution platform",
+  currentlyLearning: "TODO: MCP & System Design",
+  askMeAbout: ["Backend Development", "React", "DSA"]
 };
 ```
 
@@ -50,49 +49,11 @@ const nikunj = {
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,netlify,vercel" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,netlify,vercel,postman" alt="tools" />
 
 </div>
 
 <!-- Remove any icon you don't actually use. -->
-
----
-
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 Project One</h3>
-      <p>One-line description of what it does and why it's interesting.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Tailwind</code></p>
-      <a href="https://github.com/nikunj-oss/REPO-NAME">Code</a> •
-      <a href="https://YOUR-LIVE-DEMO">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Two</h3>
-      <p>One-line description of what it does and why it's interesting.</p>
-      <p><code>JavaScript</code> <code>API</code> <code>CSS</code></p>
-      <a href="https://github.com/nikunj-oss/REPO-NAME">Code</a> •
-      <a href="https://YOUR-LIVE-DEMO">Live demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 AI Code Execution &amp; Learning Platform</h3>
-      <p>Browser IDE with sandboxed code execution and an AI assistant. (Edit this to match what you want to show publicly.)</p>
-      <p><code>Monaco</code> <code>Docker</code> <code>RAG</code></p>
-      <a href="https://github.com/nikunj-oss/REPO-NAME">Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Four</h3>
-      <p>One-line description of what it does and why it's interesting.</p>
-      <p><code>React</code> <code>Vite</code></p>
-      <a href="https://github.com/nikunj-oss/REPO-NAME">Code</a> •
-      <a href="https://YOUR-LIVE-DEMO">Live demo</a>
-    </td>
-  </tr>
-</table>
 
 <!-- Alternative: pinned-style cards
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=nikunj-oss&repo=REPO-NAME&theme=dracula)](https://github.com/nikunj-oss/REPO-NAME)
@@ -103,7 +64,7 @@ const nikunj = {
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikunj-oss&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+ <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikunj-oss&show_icons=true&theme=dracula&hide_border=true" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj-oss&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=nikunj-oss&theme=dracula&hide_border=true" alt="streak" />
